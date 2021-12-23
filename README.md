@@ -1,4 +1,4 @@
-# pendolo-doppio
+# PendoloDoppio
 
 Corso di Metodi Computazionali della Fisica. Anno Accademico 2019/2020.
 
